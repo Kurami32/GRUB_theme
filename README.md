@@ -18,7 +18,7 @@ You can use you editor favorite, I'll use nvim.
 sudo nvim /etc/default/grub
 ```
 ### Then search for this line
-The line that says 'GRUB_THEME' should be there, uncomment it the route of the theme that we copied.
+The line that says 'GRUB_THEME' should be there, uncomment it, and add the route of the theme that we copied. Should be look like this
 ```
 GRUB_THEME="/usr/share/grub/themes/Kurami_GRUB_theme/theme.txt"
 ```
