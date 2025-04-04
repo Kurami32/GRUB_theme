@@ -1,4 +1,4 @@
-# Kurami GRUB theme
+# GRUB theme (kurami32)
 This is a grub theme that I customized +/- to my liking, if someone view this, I hope you like it! :D
 
 If you want to have it you'll need to follow these steps first (I'm assuming that you have you OS functioning, so...)
