@@ -1,0 +1,37 @@
+# Hi! You can modify whatever value to your liking here, you can change the background too, only replace the image on the folder
+# that says 'background.png'.
+
+title-text: ""
+desktop-image: "background.png"
+desktop-color: "#000000"
+terminal-box: "terminal_box_*.png"
+terminal-left: "0%"
+terminal-top: "0%"
+terminal-border: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+
++ boot_menu {
+  left = 6%
+  top = 42%
+  width = 30%
+  height = 40%
+  item_color = "#cccccc"
+  selected_item_color = "#ffffff"
+  icon_width = 45
+  icon_height = 45
+  item_icon_space = 20
+  item_height = 50
+  item_padding = 2
+  item_spacing = 15
+  selected_item_pixmap_style = "select_*.png"
+}
+
++ label {
+  left = 5%
+  top = 841%
+  align = "left"
+  id = "__timeout__"
+  text = "Selected OS will automatically start in %d seconds..."
+  color = "#cccccc"
+}
