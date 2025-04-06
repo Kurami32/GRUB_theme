@@ -1,5 +1,5 @@
 # GRUB theme (by kurami32)
-This is a grub theme that I customized to my liking, all mostly from [this theme](https://github.com/Hitori-Laura/OsageChan_GRUB_theme) (thanks xd), if someone view this, I hope you like it! :D
+This is a grub theme that I customized to my liking from [this theme](https://github.com/Hitori-Laura/OsageChan_GRUB_theme) (thanks xd). If someone view this, I hope you like it! :D
 ![screenshot](./background.png)
 
 If you want to have it you'll need to follow these steps first (I'm assuming that you have you OS functioning, so...)
